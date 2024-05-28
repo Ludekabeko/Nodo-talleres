@@ -11,7 +11,7 @@
     <!-- ¡Tu sello personal! -->
     <header>
         <h1>Lued Beltrán</h1>
-        <img src="file:///C:/Users/lued/Desktop/ejemplos/mipagina.html" alt="Foto de Lued Beltrán">
+        <img src="[file:///C:/Users/lued/Desktop/ejemplos/mipagina.html](https://drive.google.com/file/d/1dqVaRsDaPPu4QWDAwdkORQrrGeVPncIS/view?usp=drive_link)" alt="Foto de Lued Beltrán">
         <h2>Quién Soy</h2>
         <p>Soy esposa, madre, hija, hermana, me apasiona la tecnología y trabajo desde casa como emprendedora y aventurera. Amo viajar, conectar con otras personas. Estoy certificada en HR Learnability, Agile Coach, Chief Learning Officer, Formación, Cultura y Liderazgo organizacional, Maestra y aprendiz permanente.</p>
         <h2>¿Qué te mueve en Nodo?</h2>
